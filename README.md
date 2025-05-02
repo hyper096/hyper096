@@ -1,6 +1,6 @@
-# Main
+# Hey there!
 
-- 👋 Hi, I’m Hyper
-- 😃 I like to play Brawl Stars & I LOVE tech
-- 👀 I’m interested in Web Developing and Programming
-- 🌱 I’m currently learning HTML & CSS
+- 👋 My name is Hyper
+- 😃 I'm a tech enthusiast
+- 👀 I'm interested in programming
+- 🌱 I'm currently learning Python
